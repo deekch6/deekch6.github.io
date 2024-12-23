@@ -1,15 +1,20 @@
 # Data Scientist
 
 ### Education
-#Data Science, Masters
-#IT Management, PGITM
-#Computer Science, Bachelors
+Data Science, Masters
+
+IT Management, PGITM
+
+Computer Science, Bachelors
 
 ### Work Experience
-#Manager Application Engineering @Discover Financial Services
-#Lead Software Engineer @ GlobalLogic (2018-2019)
-#Software Consultant @ IBM (2015-2018)
-#Systems Engineer @ TCS (2012-2015)
+Manager Application Engineering @Discover Financial Services
+
+Lead Software Engineer @ GlobalLogic (2018-2019)
+
+Software Consultant @ IBM (2015-2018)
+
+Systems Engineer @ TCS (2012-2015)
 
 ### Portfolio Projects
 
