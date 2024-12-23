@@ -9,8 +9,8 @@ Technology Manager @Discover Financial Services
 
 ### Portfolio Projects
   - Project 1! Airline Safety: A Statistical Overview of Incidents and Precautions
-    !(/assets/img/Project1.jpg)
+    ![Airline Safety: A Statistical Overview of Incidents and Precautions](/assets/img/Project1.jpg)
   - Project 2! Health Impacts of Artificial Sweeteners: A Data-Driven Study
-    !(/assets/img/Project2.jpg)
+    ![Health Impacts of Artificial Sweeteners: A Data-Driven Study](/assets/img/Project2.jpg)
 
 
