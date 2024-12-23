@@ -2,13 +2,17 @@
 
 ### Education
 Data Science, Masters
+IT Management, PGITM
 Computer Science, Bachelors
 
 ### Work Experience
 Manager Application Engineering @Discover Financial Services
+Lead Software Engineer @ GlobalLogic (2018-2019)
+Software Consultant @ IBM (2015-2018)
+Systems Engineer @ TCS (2012-2015)
 
 ### Portfolio Projects
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -55,6 +59,7 @@ Manager Application Engineering @Discover Financial Services
     <div class="gallery">
         <div class="project">
             <h3>Project 1</h3>
+            <img src="/assets/img/Project1.jpg" alt="Project 1 Image">
             <p>Advanced-Data Visualization Techniques for Business Insights</p>
         </div>
         <div class="project">
@@ -64,27 +69,32 @@ Manager Application Engineering @Discover Financial Services
         </div>
         <div class="project">
             <h3>Project 3</h3>
+            <img src="/assets/img/Project3.jpg" alt="Project 3 Image">
             <p>Statistical Analysis and Pricing Trends in the Used Car Market</p>
         </div>
         <div class="project">
             <h3>Project 4</h3>
+            <img src="/assets/img/Project4.jpg" alt="Project 4 Image">
             <p>Amazon Best Sellers: A Comprehensive Product and Sales Analysis</p>
         </div>
         <div class="project">
             <h3>Project 5</h3>
+            <img src="/assets/img/Project5.jpg" alt="Project 5 Image">
             <p>Global Economic Trends: Analyzing Countries by GDP</p>
         </div>
         <div class="project">
             <h3>Project 6</h3>
+            <img src="/assets/img/Project6.jpg" alt="Project 7 Image">
             <p>Visualizing Cholesterol Levels Across Diverse Populations</p>
         </div>
         <div class="project">
             <h3>Project 7</h3>
-            <img src="/assets/img/Project1.jpg" alt="Project 7 Image">
+            <img src="/assets/img/Project7.jpg" alt="Project 7 Image">
             <p>Airline Safety: A Statistical Overview of Incidents and Precautions</p>
         </div>
         <div class="project">
             <h3>Project 8</h3>
+            <img src="/assets/img/Project8.jpg" alt="Project 8 Image">
             <p>Predicting Customer Churn in the Telecom Industry: A Machine Learning Approach</p>
         </div>
     </div>
