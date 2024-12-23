@@ -9,9 +9,9 @@ Manager Application Engineering @Discover Financial Services
 
 ### Portfolio Projects
   - Project 1! Advanced-Data Visualization Techniques for Business Insights
-    ![Health Impacts of Artificial Sweeteners: A Data-Driven Study](/assets/img/Project2.jpg)
   - Project 2! Health Impacts of Artificial Sweeteners: A Data-Driven Study
     ![Health Impacts of Artificial Sweeteners: A Data-Driven Study](/assets/img/Project2.jpg)
+    <img src="/assets/img/Project2.jpg" width="200" />
   - Project 3! Statistical Analysis and Pricing Trends in the Used Car Market
   - Project 4! Amazon Best Sellers: A Comprehensive Product and Sales Analysis
   - Project 5! Global Economic Trends: Analyzing Countries by GDP
