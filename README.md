@@ -66,7 +66,7 @@ Systems Engineer @ TCS (2012-2015)
             <h3>Project 2</h3>
             <img src="/assets/img/Project2.jpg" alt="Project 2 Image">
             <p>Health Impacts of Artificial Sweeteners: A Data-Driven Study</p>
-            <a href="https://github.com/deekch6/deekch6.github.io/blob/main/Project2/README)" target="_blank">View Project</a>            
+            <a href="https://github.com/deekch6/deekch6.github.io/blob/main/Project2/README" target="_blank">View Project</a>            
         </div>
         <div class="project">
             <h3>Project 3</h3>
@@ -92,6 +92,7 @@ Systems Engineer @ TCS (2012-2015)
             <h3>Project 7</h3>
             <img src="/assets/img/Project7.jpg" alt="Project 7 Image">
             <p>Airline Safety: A Statistical Overview of Incidents and Precautions</p>
+            <a href="https://github.com/deekch6/deekch6.github.io/blob/main/Project1/README" target="_blank">View Project</a>
         </div>
         <div class="project">
             <h3>Project 8</h3>
