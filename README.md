@@ -104,6 +104,11 @@ Systems Engineer @ TCS (2012-2015)
             <img src="/assets/img/Project8.jpg" alt="Project 8 Image">
             <p>Predicting Customer Churn in the Telecom Industry: A Machine Learning Approach</p>
         </div>
+        <div class="project">
+            <h3>Project 9</h3>
+            <img src="/assets/img/Project9.jpg" alt="Project 9 Image">
+            <p>Customer Segmentation Using Clustering for Marketing Analytics</p>
+        </div>
     </div>
 </body>
 </html>
