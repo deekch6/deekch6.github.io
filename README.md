@@ -108,6 +108,7 @@ Systems Engineer @ TCS (2012-2015)
             <h3>Project 9</h3>
             <img src="/assets/img/Project9.jpg" alt="Project 9 Image">
             <p>Customer Segmentation Using Clustering for Marketing Analytics</p>
+            <a href="https://github.com/deekch6/deekch6.github.io/blob/main/Project9/README" target="_blank">View Project</a>
         </div>
     </div>
 </body>
