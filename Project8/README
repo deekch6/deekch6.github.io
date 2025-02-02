@@ -1,1 +1,11 @@
-TBD
+Business Problem
+Customer churn is the term which refers to the rate at which customers stop doing business with an entity. It is a critical metric for companies, particularly in highly competitive industries such as telecommunications, where retaining customers is primarily more cost-effective than acquiring new ones.
+This project addresses the following questions:
+•	What factors contribute to customer churn?
+•	How can telecom companies predict and prevent churn effectively?
+The analysis will help to provide insights to identify high-risk customers and implement targeted retention strategies, thereby improving customer satisfaction and loyalty.
+
+Preliminary findings suggest that:
+•	Customers with shorter tenures and month-to-month contracts are more likely to churn.
+•	Automated payment methods correlate with lower churn rates.
+•	Specific Machine learning models like Random Forest and Gradient Boosting provide high predictive accuracy.
