@@ -103,6 +103,7 @@ Systems Engineer @ TCS (2012-2015)
             <h3>Project 8</h3>
             <img src="/assets/img/Project8.jpg" alt="Project 8 Image">
             <p>Predicting Customer Churn in the Telecom Industry: A Machine Learning Approach</p>
+            <a href="https://github.com/deekch6/deekch6.github.io/blob/main/Project8/README" target="_blank">View Project</a>
         </div>
         <div class="project">
             <h3>Project 9</h3>
