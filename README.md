@@ -114,7 +114,7 @@ Systems Engineer @ TCS (2012-2015)
           <div class="project">
             <h3>Project 10</h3>
             <img src="/assets/img/Project10.jpg" alt="Project 9 Image">
-            <p>Customer Segmentation Using Clustering for Marketing Analytics</p>
+            <p>Fraud Detection Using Anomaly Detection</p>
             <a href="https://github.com/deekch6/deekch6.github.io/blob/main/Project 10/README" target="_blank">View Project</a>
         </div>
     </div>
