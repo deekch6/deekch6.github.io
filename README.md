@@ -16,6 +16,10 @@ Software Consultant @ IBM (2015-2018)
 
 Systems Engineer @ TCS (2012-2015)
 
+Connect with me 
+ <a href="https://www.linkedin.com/in/deekshachawla/" target="_blank">LinkedIN</a>
+ 
+
 ### Portfolio Projects
 
 <html lang="en">
