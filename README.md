@@ -69,7 +69,7 @@ Connect with me
         <div class="project">
             <h3>Project 1</h3>
             <img src="/assets/img/Project1.jpg" alt="Project 1 Image">
-            <p>Advanced-Data Visualization Techniques for Business Insights</p>
+            <p>Airline Safety: A Statistical Overview of Incidents and Precautions</p>
             <a href="https://github.com/deekch6/deekch6.github.io/blob/main/Project1/README" target="_blank">View Project</a>
         </div>
         <div class="project">
@@ -105,7 +105,7 @@ Connect with me
         <div class="project">
             <h3>Project 7</h3>
             <img src="/assets/img/Project7.jpg" alt="Project 7 Image">
-            <p>Airline Safety: A Statistical Overview of Incidents and Precautions</p>
+            <p>Advanced-Data Visualization Techniques for Business Insights</p>
             <a href="https://github.com/deekch6/deekch6.github.io/blob/main/Project7/README" target="_blank">View Project</a>
         </div>
         <div class="project">
