@@ -70,6 +70,7 @@ Connect with me
             <h3>Project 1</h3>
             <img src="/assets/img/Project1.jpg" alt="Project 1 Image">
             <p>Advanced-Data Visualization Techniques for Business Insights</p>
+            <a href="https://github.com/deekch6/deekch6.github.io/blob/main/Project1/README" target="_blank">View Project</a>
         </div>
         <div class="project">
             <h3>Project 2</h3>
@@ -81,27 +82,31 @@ Connect with me
             <h3>Project 3</h3>
             <img src="/assets/img/Project3.jpg" alt="Project 3 Image">
             <p>Statistical Analysis and Pricing Trends in the Used Car Market</p>
+            <a href="https://github.com/deekch6/deekch6.github.io/blob/main/Project3/README" target="_blank">View Project</a>
         </div>
         <div class="project">
             <h3>Project 4</h3>
             <img src="/assets/img/Project4.jpg" alt="Project 4 Image">
             <p>Amazon Best Sellers: A Comprehensive Product and Sales Analysis</p>
+            <a href="https://github.com/deekch6/deekch6.github.io/blob/main/Project4/README" target="_blank">View Project</a>
         </div>
         <div class="project">
             <h3>Project 5</h3>
             <img src="/assets/img/Project5.jpg" alt="Project 5 Image">
             <p>Global Economic Trends: Analyzing Countries by GDP</p>
+            <a href="https://github.com/deekch6/deekch6.github.io/blob/main/Project5/README" target="_blank">View Project</a>
         </div>
         <div class="project">
             <h3>Project 6</h3>
             <img src="/assets/img/Project6.jpg" alt="Project 7 Image">
             <p>Visualizing Cholesterol Levels Across Diverse Populations</p>
+            <a href="https://github.com/deekch6/deekch6.github.io/blob/main/Project6/README" target="_blank">View Project</a>
         </div>
         <div class="project">
             <h3>Project 7</h3>
             <img src="/assets/img/Project7.jpg" alt="Project 7 Image">
             <p>Airline Safety: A Statistical Overview of Incidents and Precautions</p>
-            <a href="https://github.com/deekch6/deekch6.github.io/blob/main/Project1/README" target="_blank">View Project</a>
+            <a href="https://github.com/deekch6/deekch6.github.io/blob/main/Project7/README" target="_blank">View Project</a>
         </div>
         <div class="project">
             <h3>Project 8</h3>
