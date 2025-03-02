@@ -88,7 +88,7 @@ Connect with me
             <h3>Project 4</h3>
             <img src="/assets/img/Project4.jpg" alt="Project 4 Image">
             <p>Amazon Best Sellers: A Comprehensive Product and Sales Analysis</p>
-            <a href="https://github.com/deekch6/deekch6.github.io/blob/main/Project4/README" target="_blank">View Project</a>
+            <a href="https://github.com/deekch6/deekch6.github.io/blob/main/Project 4/README" target="_blank">View Project</a>
         </div>
         <div class="project">
             <h3>Project 5</h3>
